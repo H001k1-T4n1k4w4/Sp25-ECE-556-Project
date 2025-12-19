@@ -1,6 +1,8 @@
 # ECE 556 Project
 
-This repository is the implementation of our ECE 556 project by Puyu He, Rui-Yu Lin, Xiangzhong Ye.
+This repository is the implementation of our ECE 556 project by Puyu He, 
+Rui-Yu Lin, https://github.com/RUI030,
+Xiangzhong Ye, https://github.com/Suckl.
 
 Our project goal is to reproduce the result by Wenqi Ren et al. [“Image deblurring via enhanced low-rank prior”](https://ieeexplore.ieee.org/abstract/document/7473901).
 
